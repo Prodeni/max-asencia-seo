@@ -1,410 +1,53 @@
 [
-  {
-    "Cultivo": "Aguacate",
-    "PlagaComun": "Arana roja",
-    "NombreCientifico": "Paratetranychus yothersi",
-    "Dosis": "2-3 ml",
-    "MomentoAplicacion": "Inicio floracion, desarrollo fruto (15-21 días)",
-    "SlugManual": "aguacate-arana-roja"
-  },
-  {
-    "Cultivo": "Aguacate",
-    "PlagaComun": "Trips",
-    "NombreCientifico": "Scirtothrips perseae",
-    "Dosis": "2-3 ml",
-    "MomentoAplicacion": "Inicio floracion, desarrollo fruto (15-21 días)",
-    "SlugManual": "aguacate-trips"
-  },
-  {
-    "Cultivo": "Aguacate",
-    "PlagaComun": "Chinches",
-    "NombreCientifico": "",
-    "Dosis": "2-3 ml",
-    "MomentoAplicacion": "Inicio floracion, desarrollo fruto (15-21 días)",
-    "SlugManual": "aguacate-chinches"
-  },
-  {
-    "Cultivo": "Cítricos (limon,naranja , lima)",
-    "PlagaComun": "Minador de la hoja",
-    "NombreCientifico": "Phyllocnistis citrella",
-    "Dosis": "2-3 ml",
-    "MomentoAplicacion": "Brotes nuevos, prefloracion",
-    "SlugManual": "citricos-minador-de-la-hoja"
-  },
-  {
-    "Cultivo": "Cítricos (limón,naranja , lima)",
-    "PlagaComun": "Acaros",
-    "NombreCientifico": "Tetranychus urticae",
-    "Dosis": "2-3 ml",
-    "MomentoAplicacion": "Brotes nuevos, prefloracion",
-    "SlugManual": "citricos-acaros"
-  },
-  {
-    "Cultivo": "Citricos (limon,naranja , lima)",
-    "PlagaComun": "Mosca blanca",
-    "NombreCientifico": "",
-    "Dosis": "2-3 ml",
-    "MomentoAplicacion": "Brotes nuevos, prefloracion",
-    "SlugManual": "citricos-mosca-blanca"
-  },
-  {
-    "Cultivo": "Maiz",
-    "PlagaComun": "Gusano cogollero (joven)",
-    "NombreCientifico": "Spodoptera frugiperda (larvas jovenes)",
-    "Dosis": "1.5-3 ml",
-    "MomentoAplicacion": "Etapas V2-V8, al detectar",
-    "SlugManual": "maiz-gusano-cogollero-joven"
-  },
-  {
-    "Cultivo": "Maiz",
-    "PlagaComun": "Pulgon",
-    "NombreCientifico": "Rhopalosiphum maidis",
-    "Dosis": "1.5-3 ml",
-    "MomentoAplicacion": "Etapas V2-V8, al detectar",
-    "SlugManual": "maiz-pulgon"
-  },
-  {
-    "Cultivo": "Maiz",
-    "PlagaComun": "Chapulin pequeno",
-    "NombreCientifico": "",
-    "Dosis": "1.5-3 ml",
-    "MomentoAplicacion": "Etapas V2-V8, al detectar",
-    "SlugManual": "maiz-chapulin-pequeno"
-  },
-  {
-    "Cultivo": "Sorgo",
-    "PlagaComun": "Pulgón",
-    "NombreCientifico": "Melanaphis sacchari",
-    "Dosis": "2-3 ml",
-    "MomentoAplicacion": "Crecimiento vegetativo",
-    "SlugManual": "sorgo-pulgon"
-  },
-  {
-    "Cultivo": "Sorgo",
-    "PlagaComun": "Mosca blanca",
-    "NombreCientifico": "Bemisia tabaci",
-    "Dosis": "2-3 ml",
-    "MomentoAplicacion": "Crecimiento vegetativo",
-    "SlugManual": "sorgo-mosca-blanca"
-  },
-  {
-    "Cultivo": "Sorgo",
-    "PlagaComun": "Chinche",
-    "NombreCientifico": "",
-    "Dosis": "2-3 ml",
-    "MomentoAplicacion": "Crecimiento vegetativo",
-    "SlugManual": "sorgo-chinche"
-  },
-  {
-    "Cultivo": "Caña de azúcar",
-    "PlagaComun": "Barrenador del tallo (adultos)",
-    "NombreCientifico": "Diatraea spp. (adultos)",
-    "Dosis": "3 ml",
-    "MomentoAplicacion": "Cuando se ven adultos volando",
-    "SlugManual": "cana-de-azucar-barrenador-adultos"
-  },
-  {
-    "Cultivo": "Caña de azúcar",
-    "PlagaComun": "Ácaros",
-    "NombreCientifico": "",
-    "Dosis": "3 ml",
-    "MomentoAplicacion": "Cuando se ven adultos volando",
-    "SlugManual": "cana-de-azucar-acaros"
-  },
-  {
-    "Cultivo": "Tomate",
-    "PlagaComun": "Mosca blanca",
-    "NombreCientifico": "Bemisia tabaci",
-    "Dosis": "1.5-2.5 ml",
-    "MomentoAplicacion": "Trasplante a floración (7-10 días en infestación)",
-    "SlugManual": "tomate-mosca-blanca"
-  },
-  {
-    "Cultivo": "Tomate",
-    "PlagaComun": "Trips",
-    "NombreCientifico": "Frankliniella occidentalis",
-    "Dosis": "1.5-2.5 ml",
-    "MomentoAplicacion": "Trasplante a floración (7-10 días en infestación)",
-    "SlugManual": "tomate-trips"
-  },
-  {
-    "Cultivo": "Tomate",
-    "PlagaComun": "Ácaros",
-    "NombreCientifico": "",
-    "Dosis": "1.5-2.5 ml",
-    "MomentoAplicacion": "Trasplante a floración (7-10 días en infestación)",
-    "SlugManual": "tomate-acaros"
-  },
-  {
-    "Cultivo": "Chile",
-    "PlagaComun": "Pulgones",
-    "NombreCientifico": "Myzus persicae",
-    "Dosis": "1.5-2.5 ml",
-    "MomentoAplicacion": "Crecimiento vegetativo",
-    "SlugManual": "chile-pulgones"
-  },
-  {
-    "Cultivo": "Chile",
-    "PlagaComun": "Ácaros",
-    "NombreCientifico": "Polyphagotarsonemus latus",
-    "Dosis": "1.5-2.5 ml",
-    "MomentoAplicacion": "Crecimiento vegetativo",
-    "SlugManual": "chile-acaros"
-  },
-  {
-    "Cultivo": "Chile",
-    "PlagaComun": "Trips",
-    "NombreCientifico": "",
-    "Dosis": "1.5-2.5 ml",
-    "MomentoAplicacion": "Crecimiento vegetativo",
-    "SlugManual": "chile-trips"
-  },
-  {
-    "Cultivo": "Pepino/Calabaza",
-    "PlagaComun": "Mosca blanca",
-    "NombreCientifico": "Trialeurodes vaporariorum",
-    "Dosis": "1.5-2.5 ml",
-    "MomentoAplicacion": "Guías de 30-50 cm",
-    "SlugManual": "pepino-calabaza-mosca-blanca"
-  },
-  {
-    "Cultivo": "Pepino/Calabaza",
-    "PlagaComun": "Ácaros",
-    "NombreCientifico": "",
-    "Dosis": "1.5-2.5 ml",
-    "MomentoAplicacion": "Guías de 30-50 cm",
-    "SlugManual": "pepino-calabaza-acaros"
-  },
-  {
-    "Cultivo": "Pepino/Calabaza",
-    "PlagaComun": "Minador",
-    "NombreCientifico": "",
-    "Dosis": "1.5-2.5 ml",
-    "MomentoAplicacion": "Guías de 30-50 cm",
-    "SlugManual": "pepino-calabaza-minador"
-  },
-  {
-    "Cultivo": "Fresa",
-    "PlagaComun": "Ácaro blanco",
-    "NombreCientifico": "Polyphagotarsonemus latus",
-    "Dosis": "1-3 ml",
-    "MomentoAplicacion": "Inicio plaga (12-21 días)",
-    "SlugManual": "fresa-acaro-blanco"
-  },
-  {
-    "Cultivo": "Fresa",
-    "PlagaComun": "Trips",
-    "NombreCientifico": "",
-    "Dosis": "1-3 ml",
-    "MomentoAplicacion": "Inicio plaga (12-21 días)",
-    "SlugManual": "fresa-trips"
-  },
-  {
-    "Cultivo": "Fresa",
-    "PlagaComun": "Araña roja",
-    "NombreCientifico": "",
-    "Dosis": "1-3 ml",
-    "MomentoAplicacion": "Inicio plaga (12-21 días)",
-    "SlugManual": "fresa-araña-roja"
-  },
-  {
-    "Cultivo": "Zarzamora/Frambuesa",
-    "PlagaComun": "Eriófidos",
-    "NombreCientifico": "Acalitus essigi (eriófido)",
-    "Dosis": "1-3 ml",
-    "MomentoAplicacion": "Brotación, prefloración",
-    "SlugManual": "zarzamora-frambuesa-eriofidos"
-  },
-  {
-    "Cultivo": "Zarzamora/Frambuesa",
-    "PlagaComun": "Ácaros",
-    "NombreCientifico": "",
-    "Dosis": "1-3 ml",
-    "MomentoAplicacion": "Brotación, prefloración",
-    "SlugManual": "zarzamora-frambuesa-acaros"
-  },
-  {
-    "Cultivo": "Zarzamora/Frambuesa",
-    "PlagaComun": "Trips",
-    "NombreCientifico": "",
-    "Dosis": "1-3 ml",
-    "MomentoAplicacion": "Brotación, prefloración",
-    "SlugManual": "zarzamora-frambuesa-trips"
-  },
-  {
-    "Cultivo": "Mango",
-    "PlagaComun": "Mosca de la fruta (adultos)",
-    "NombreCientifico": "Anastrepha spp. (adultos)",
-    "Dosis": "2-3 ml",
-    "MomentoAplicacion": "Fruto pequeño (huevecillos)",
-    "SlugManual": "mango-mosca-de-la-fruta-adultos"
-  },
-  {
-    "Cultivo": "Mango",
-    "PlagaComun": "Trips",
-    "NombreCientifico": "Scirtothrips dorsalis",
-    "Dosis": "2-3 ml",
-    "MomentoAplicacion": "Fruto pequeño (huevecillos)",
-    "SlugManual": "mango-trips"
-  },
-  {
-    "Cultivo": "Uva",
-    "PlagaComun": "Araña roja",
-    "NombreCientifico": "Tetranychus urticae",
-    "Dosis": "2-3 ml",
-    "MomentoAplicacion": "Brotación a pinta (15 días)",
-    "SlugManual": "uva-araña-roja"
-  },
-  {
-    "Cultivo": "Uva",
-    "PlagaComun": "Trips",
-    "NombreCientifico": "Frankliniella spp.",
-    "Dosis": "2-3 ml",
-    "MomentoAplicacion": "Brotación a pinta (15 días)",
-    "SlugManual": "uva-trips"
-  },
-  {
-    "Cultivo": "Uva",
-    "PlagaComun": "Polilla",
-    "NombreCientifico": "",
-    "Dosis": "2-3 ml",
-    "MomentoAplicacion": "Brotación a pinta (15 días)",
-    "SlugManual": "uva-polilla"
-  },
-  {
-    "Cultivo": "Café",
-    "PlagaComun": "Broca (adultos)",
-    "NombreCientifico": "Hypothenemus hampei (adultos)",
-    "Dosis": "3 ml",
-    "MomentoAplicacion": "Monitoreo adultos volando",
-    "SlugManual": "cafe-broca-adultos"
-  },
-  {
-    "Cultivo": "Café",
-    "PlagaComun": "Ácaros",
-    "NombreCientifico": "",
-    "Dosis": "3 ml",
-    "MomentoAplicacion": "Monitoreo adultos volando",
-    "SlugManual": "cafe-acaros"
-  },
-  {
-    "Cultivo": "Nopal",
-    "PlagaComun": "Chinche",
-    "NombreCientifico": "Chelinidea spp.",
-    "Dosis": "2-3 ml",
-    "MomentoAplicacion": "Aparición primeras ninfas",
-    "SlugManual": "nopal-chinche"
-  },
-  {
-    "Cultivo": "Nopal",
-    "PlagaComun": "Cochinilla (ninfas)",
-    "NombreCientifico": "Dactylopius opuntiae (ninfas)",
-    "Dosis": "2-3 ml",
-    "MomentoAplicacion": "Aparición primeras ninfas",
-    "SlugManual": "nopal-cochinilla-ninfas"
-  },
-  {
-    "Cultivo": "Amaranto",
-    "PlagaComun": "Pulgones",
-    "NombreCientifico": "Aphis spp.",
-    "Dosis": "1.5-2 ml",
-    "MomentoAplicacion": "Crecimiento vegetativo",
-    "SlugManual": "amaranto-pulgones"
-  },
-  {
-    "Cultivo": "Amaranto",
-    "PlagaComun": "Chinches",
-    "NombreCientifico": "Lygus spp.",
-    "Dosis": "1.5-2 ml",
-    "MomentoAplicacion": "Crecimiento vegetativo",
-    "SlugManual": "amaranto-chinches"
-  },
-  {
-    "Cultivo": "Cacao",
-    "PlagaComun": "Ácaros",
-    "NombreCientifico": "Polyphagotarsonemus latus",
-    "Dosis": "2-3 ml",
-    "MomentoAplicacion": "En épocas secas",
-    "SlugManual": "cacao-acaros"
-  },
-  {
-    "Cultivo": "Cacao",
-    "PlagaComun": "Mosquita",
-    "NombreCientifico": "",
-    "Dosis": "2-3 ml",
-    "MomentoAplicacion": "En épocas secas",
-    "SlugManual": "cacao-mosquita"
-  },
-  {
-    "Cultivo": "Floricultura (rosa, clavel, crisantemo)",
-    "PlagaComun": "Trips",
-    "NombreCientifico": "floricultura-trips",
-    "Dosis": "1-2.5 ml",
-    "MomentoAplicacion": "Según monitoreo (semanal si hay plaga)",
-    "SlugManual": "floricultura-trips"
-  },
-  {
-    "Cultivo": "Floricultura (rosa, clavel, crisantemo)",
-    "PlagaComun": "Ácaros",
-    "NombreCientifico": "floricultura-acaros",
-    "Dosis": "1-2.5 ml",
-    "MomentoAplicacion": "Según monitoreo (semanal si hay plaga)",
-    "SlugManual": "floricultura-acaros"
-  },
-  {
-    "Cultivo": "Floricultura (rosa, clavel, crisantemo)",
-    "PlagaComun": "Minador",
-    "NombreCientifico": "floricultura-minador",
-    "Dosis": "1-2.5 ml",
-    "MomentoAplicacion": "Según monitoreo (semanal si hay plaga)",
-    "SlugManual": "floricultura-minador"
-  },
-  {
-    "Cultivo": "Maguey",
-    "PlagaComun": "Chinche",
-    "NombreCientifico": "Scyphophorus acupunctatus (adultos)",
-    "Dosis": "3 ml",
-    "MomentoAplicacion": "Aplicación dirigida a adultos",
-    "SlugManual": "maguey-chinche"
-  },
-  {
-    "Cultivo": "Maguey",
-    "PlagaComun": "Ácaros",
-    "NombreCientifico": "maguey-acaros",
-    "Dosis": "3 ml",
-    "MomentoAplicacion": "Aplicación dirigida a adultos",
-    "SlugManual": "maguey-acaros"
-  },
-  {
-    "Cultivo": "Pastos/Forrajes",
-    "PlagaComun": "Chapulín pequeño",
-    "NombreCientifico": "pastos-forrajes-chapulin-pequeno",
-    "Dosis": "1.5-2 ml",
-    "MomentoAplicacion": "Primeras ninfas",
-    "SlugManual": "pastos-forrajes-chapulin-pequeno"
-  },
-  {
-    "Cultivo": "Pastos/Forrajes",
-    "PlagaComun": "Pulgones",
-    "NombreCientifico": "pastos-forrajes-pulgones",
-    "Dosis": "1.5-2 ml",
-    "MomentoAplicacion": "Primeras ninfas",
-    "SlugManual": "pastos-forrajes-pulgones"
-  },
-  {
-    "Cultivo": "Árboles Forestales (pino",
-    "PlagaComun": "arboles-forestales-defoliadores",
-    "NombreCientifico": "Defoliadores",
-    "Dosis": "Dendroctonus (adultos)",
-    "MomentoAplicacion": "2-3 ml",
-    "SlugManual": "arboles-forestales-defoliadores"
-  },
-  {
-    "Cultivo": "Árboles Forestales (pino",
-    "PlagaComun": "arboles-forestales-pulgones",
-    "NombreCientifico": "Pulgones",
-    "Dosis": "Cinara spp.",
-    "MomentoAplicacion": "2-3 ml",
-    "SlugManual": "arboles-forestales-pulgones"
-  }
+  {"Cultivo":"Aguacate","PlagaComun":"Araña roja","NombreCientifico":"Paratetranychus yothersi","Dosis":"2-3 ml","MomentoAplicacion":"Inicio floración, desarrollo fruto (15-21 días)","SlugManual":"aguacate-araña-roja"},
+  {"Cultivo":"Aguacate","PlagaComun":"Trips","NombreCientifico":"Scirtothrips perseae","Dosis":"2-3 ml","MomentoAplicacion":"Inicio floración, desarrollo fruto (15-21 días)","SlugManual":"aguacate-trips"},
+  {"Cultivo":"Aguacate","PlagaComun":"Chinches","NombreCientifico":"","Dosis":"2-3 ml","MomentoAplicacion":"Inicio floración, desarrollo fruto (15-21 días)","SlugManual":"aguacate-chinches"},
+  {"Cultivo":"Cítricos (limón, naranja, lima)","PlagaComun":"Minador de la hoja","NombreCientifico":"Phyllocnistis citrella","Dosis":"2-3 ml","MomentoAplicacion":"Brotes nuevos, prefloración","SlugManual":"citricos-minador-de-la-hoja"},
+  {"Cultivo":"Cítricos (limón, naranja, lima)","PlagaComun":"Ácaros","NombreCientifico":"Tetranychus urticae","Dosis":"2-3 ml","MomentoAplicacion":"Brotes nuevos, prefloración","SlugManual":"citricos-acaros"},
+  {"Cultivo":"Cítricos (limón, naranja, lima)","PlagaComun":"Mosca blanca","NombreCientifico":"","Dosis":"2-3 ml","MomentoAplicacion":"Brotes nuevos, prefloración","SlugManual":"citricos-mosca-blanca"},
+  {"Cultivo":"Maíz","PlagaComun":"Gusano cogollero (joven)","NombreCientifico":"Spodoptera frugiperda (larvas jóvenes)","Dosis":"1.5-3 ml","MomentoAplicacion":"Etapas V2-V8, al detectar","SlugManual":"maiz-gusano-cogollero-joven"},
+  {"Cultivo":"Maíz","PlagaComun":"Pulgón","NombreCientifico":"Rhopalosiphum maidis","Dosis":"1.5-3 ml","MomentoAplicacion":"Etapas V2-V8, al detectar","SlugManual":"maiz-pulgon"},
+  {"Cultivo":"Maíz","PlagaComun":"Chapulín pequeño","NombreCientifico":"","Dosis":"1.5-3 ml","MomentoAplicacion":"Etapas V2-V8, al detectar","SlugManual":"maiz-chapulin-pequeno"},
+  {"Cultivo":"Sorgo","PlagaComun":"Pulgón","NombreCientifico":"Melanaphis sacchari","Dosis":"2-3 ml","MomentoAplicacion":"Crecimiento vegetativo","SlugManual":"sorgo-pulgon"},
+  {"Cultivo":"Sorgo","PlagaComun":"Mosca blanca","NombreCientifico":"Bemisia tabaci","Dosis":"2-3 ml","MomentoAplicacion":"Crecimiento vegetativo","SlugManual":"sorgo-mosca-blanca"},
+  {"Cultivo":"Sorgo","PlagaComun":"Chinche","NombreCientifico":"","Dosis":"2-3 ml","MomentoAplicacion":"Crecimiento vegetativo","SlugManual":"sorgo-chinche"},
+  {"Cultivo":"Caña de azúcar","PlagaComun":"Barrenador del tallo (adultos)","NombreCientifico":"Diatraea spp. (adultos)","Dosis":"3 ml","MomentoAplicacion":"Cuando se ven adultos volando","SlugManual":"cana-de-azucar-barrenador-adultos"},
+  {"Cultivo":"Caña de azúcar","PlagaComun":"Ácaros","NombreCientifico":"","Dosis":"3 ml","MomentoAplicacion":"Cuando se ven adultos volando","SlugManual":"cana-de-azucar-acaros"},
+  {"Cultivo":"Tomate","PlagaComun":"Mosca blanca","NombreCientifico":"Bemisia tabaci","Dosis":"1.5-2.5 ml","MomentoAplicacion":"Trasplante a floración (7-10 días en infestación)","SlugManual":"tomate-mosca-blanca"},
+  {"Cultivo":"Tomate","PlagaComun":"Trips","NombreCientifico":"Frankliniella occidentalis","Dosis":"1.5-2.5 ml","MomentoAplicacion":"Trasplante a floración (7-10 días en infestación)","SlugManual":"tomate-trips"},
+  {"Cultivo":"Tomate","PlagaComun":"Ácaros","NombreCientifico":"","Dosis":"1.5-2.5 ml","MomentoAplicacion":"Trasplante a floración (7-10 días en infestación)","SlugManual":"tomate-acaros"},
+  {"Cultivo":"Chile","PlagaComun":"Pulgones","NombreCientifico":"Myzus persicae","Dosis":"1.5-2.5 ml","MomentoAplicacion":"Crecimiento vegetativo","SlugManual":"chile-pulgones"},
+  {"Cultivo":"Chile","PlagaComun":"Ácaros","NombreCientifico":"Polyphagotarsonemus latus","Dosis":"1.5-2.5 ml","MomentoAplicacion":"Crecimiento vegetativo","SlugManual":"chile-acaros"},
+  {"Cultivo":"Chile","PlagaComun":"Trips","NombreCientifico":"","Dosis":"1.5-2.5 ml","MomentoAplicacion":"Crecimiento vegetativo","SlugManual":"chile-trips"},
+  {"Cultivo":"Pepino/Calabaza","PlagaComun":"Mosca blanca","NombreCientifico":"Trialeurodes vaporariorum","Dosis":"1.5-2.5 ml","MomentoAplicacion":"Guías de 30-50 cm","SlugManual":"pepino-calabaza-mosca-blanca"},
+  {"Cultivo":"Pepino/Calabaza","PlagaComun":"Ácaros","NombreCientifico":"","Dosis":"1.5-2.5 ml","MomentoAplicacion":"Guías de 30-50 cm","SlugManual":"pepino-calabaza-acaros"},
+  {"Cultivo":"Pepino/Calabaza","PlagaComun":"Minador","NombreCientifico":"","Dosis":"1.5-2.5 ml","MomentoAplicacion":"Guías de 30-50 cm","SlugManual":"pepino-calabaza-minador"},
+  {"Cultivo":"Fresa","PlagaComun":"Ácaro blanco","NombreCientifico":"Polyphagotarsonemus latus","Dosis":"1-3 ml","MomentoAplicacion":"Inicio plaga (12-21 días)","SlugManual":"fresa-acaro-blanco"},
+  {"Cultivo":"Fresa","PlagaComun":"Trips","NombreCientifico":"","Dosis":"1-3 ml","MomentoAplicacion":"Inicio plaga (12-21 días)","SlugManual":"fresa-trips"},
+  {"Cultivo":"Fresa","PlagaComun":"Araña roja","NombreCientifico":"","Dosis":"1-3 ml","MomentoAplicacion":"Inicio plaga (12-21 días)","SlugManual":"fresa-araña-roja"},
+  {"Cultivo":"Zarzamora/Frambuesa","PlagaComun":"Eriófidos","NombreCientifico":"Acalitus essigi (eriófido)","Dosis":"1-3 ml","MomentoAplicacion":"Brotación, prefloración","SlugManual":"zarzamora-frambuesa-eriofidos"},
+  {"Cultivo":"Zarzamora/Frambuesa","PlagaComun":"Ácaros","NombreCientifico":"","Dosis":"1-3 ml","MomentoAplicacion":"Brotación, prefloración","SlugManual":"zarzamora-frambuesa-acaros"},
+  {"Cultivo":"Zarzamora/Frambuesa","PlagaComun":"Trips","NombreCientifico":"","Dosis":"1-3 ml","MomentoAplicacion":"Brotación, prefloración","SlugManual":"zarzamora-frambuesa-trips"},
+  {"Cultivo":"Mango","PlagaComun":"Mosca de la fruta (adultos)","NombreCientifico":"Anastrepha spp. (adultos)","Dosis":"2-3 ml","MomentoAplicacion":"Fruto pequeño (huevecillos)","SlugManual":"mango-mosca-de-la-fruta-adultos"},
+  {"Cultivo":"Mango","PlagaComun":"Trips","NombreCientifico":"Scirtothrips dorsalis","Dosis":"2-3 ml","MomentoAplicacion":"Fruto pequeño (huevecillos)","SlugManual":"mango-trips"},
+  {"Cultivo":"Uva","PlagaComun":"Araña roja","NombreCientifico":"Tetranychus urticae","Dosis":"2-3 ml","MomentoAplicacion":"Brotación a pinta (15 días)","SlugManual":"uva-araña-roja"},
+  {"Cultivo":"Uva","PlagaComun":"Trips","NombreCientifico":"Frankliniella spp.","Dosis":"2-3 ml","MomentoAplicacion":"Brotación a pinta (15 días)","SlugManual":"uva-trips"},
+  {"Cultivo":"Uva","PlagaComun":"Polilla","NombreCientifico":"","Dosis":"2-3 ml","MomentoAplicacion":"Brotación a pinta (15 días)","SlugManual":"uva-polilla"},
+  {"Cultivo":"Café","PlagaComun":"Broca (adultos)","NombreCientifico":"Hypothenemus hampei (adultos)","Dosis":"3 ml","MomentoAplicacion":"Monitoreo adultos volando","SlugManual":"cafe-broca-adultos"},
+  {"Cultivo":"Café","PlagaComun":"Ácaros","NombreCientifico":"","Dosis":"3 ml","MomentoAplicacion":"Monitoreo adultos volando","SlugManual":"cafe-acaros"},
+  {"Cultivo":"Nopal","PlagaComun":"Chinche","NombreCientifico":"Chelinidea spp.","Dosis":"2-3 ml","MomentoAplicacion":"Aparición primeras ninfas","SlugManual":"nopal-chinche"},
+  {"Cultivo":"Nopal","PlagaComun":"Cochinilla (ninfas)","NombreCientifico":"Dactylopius opuntiae (ninfas)","Dosis":"2-3 ml","MomentoAplicacion":"Aparición primeras ninfas","SlugManual":"nopal-cochinilla-ninfas"},
+  {"Cultivo":"Amaranto","PlagaComun":"Pulgones","NombreCientifico":"Aphis spp.","Dosis":"1.5-2 ml","MomentoAplicacion":"Crecimiento vegetativo","SlugManual":"amaranto-pulgones"},
+  {"Cultivo":"Amaranto","PlagaComun":"Chinches","NombreCientifico":"Lygus spp.","Dosis":"1.5-2 ml","MomentoAplicacion":"Crecimiento vegetativo","SlugManual":"amaranto-chinches"},
+  {"Cultivo":"Cacao","PlagaComun":"Ácaros","NombreCientifico":"Polyphagotarsonemus latus","Dosis":"2-3 ml","MomentoAplicacion":"En épocas secas","SlugManual":"cacao-acaros"},
+  {"Cultivo":"Cacao","PlagaComun":"Mosquita","NombreCientifico":"","Dosis":"2-3 ml","MomentoAplicacion":"En épocas secas","SlugManual":"cacao-mosquita"},
+  {"Cultivo":"Floricultura (rosa, clavel, crisantemo)","PlagaComun":"Trips","NombreCientifico":"Frankliniella spp.","Dosis":"1-2.5 ml","MomentoAplicacion":"Según monitoreo (semanal si hay plaga)","SlugManual":"floricultura-trips"},
+  {"Cultivo":"Floricultura (rosa, clavel, crisantemo)","PlagaComun":"Ácaros","NombreCientifico":"Tetranychus spp.","Dosis":"1-2.5 ml","MomentoAplicacion":"Según monitoreo (semanal si hay plaga)","SlugManual":"floricultura-acaros"},
+  {"Cultivo":"Floricultura (rosa, clavel, crisantemo)","PlagaComun":"Minador","NombreCientifico":"","Dosis":"1-2.5 ml","MomentoAplicacion":"Según monitoreo (semanal si hay plaga)","SlugManual":"floricultura-minador"},
+  {"Cultivo":"Maguey","PlagaComun":"Chinche","NombreCientifico":"Scyphophorus acupunctatus (adultos)","Dosis":"3 ml","MomentoAplicacion":"Aplicación dirigida a adultos","SlugManual":"maguey-chinche"},
+  {"Cultivo":"Maguey","PlagaComun":"Ácaros","NombreCientifico":"","Dosis":"3 ml","MomentoAplicacion":"Aplicación dirigida a adultos","SlugManual":"maguey-acaros"},
+  {"Cultivo":"Pastos/Forrajes","PlagaComun":"Chapulín pequeño","NombreCientifico":"","Dosis":"1.5-2 ml","MomentoAplicacion":"Primeras ninfas","SlugManual":"pastos-forrajes-chapulin-pequeno"},
+  {"Cultivo":"Pastos/Forrajes","PlagaComun":"Pulgones","NombreCientifico":"","Dosis":"1.5-2 ml","MomentoAplicacion":"Primeras ninfas","SlugManual":"pastos-forrajes-pulgones"},
+  {"Cultivo":"Árboles Forestales (pino, eucalipto)","PlagaComun":"Defoliadores","NombreCientifico":"Dendroctonus (adultos)","Dosis":"2-3 ml","MomentoAplicacion":"Detección temprana","SlugManual":"arboles-forestales-defoliadores"},
+  {"Cultivo":"Árboles Forestales (pino, eucalipto)","PlagaComun":"Pulgones","NombreCientifico":"Cinara spp.","Dosis":"2-3 ml","MomentoAplicacion":"Detección temprana","SlugManual":"arboles-forestales-pulgones"}
 ]
