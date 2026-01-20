@@ -1,0 +1,24 @@
+---
+pagination:
+  data: aplicaciones
+  size: 1
+  alias: item
+  addAllPagesToCollections: true
+permalink: "{{ item.SlugManual }}/"
+layout: base.njk
+---
+
+<h1>MAX ASENCIA® para {{ item.PlagaComun }} en {{ item.Cultivo }}</h1>
+
+<p><strong>Nombre científico:</strong> {{ item.NombreCientifico or "No disponible" }}</p>
+<p><strong>Dosis recomendada:</strong> {{ item.Dosis }} ml por litro de agua</p>
+<p><strong>Cuándo aplicar:</<strong> {{ item.MomentoAplicacion }}</p>
+
+<p>El activo que contiene MAX ASENCIA® es absorbido a través del exoesqueleto de los insectos afectando el sistema nervioso bloqueando así la transmisión del impulso lo que conlleva la parálisis y muerte del insecto en pocos minutos, y su segunda acción es por taponamiento de los espiráculos.</p>
+
+<ul>
+  <li>Los insectos no crean resistencia a estos compuestos.</li>
+  <li>No tiene impacto ambiental negativo.</li>
+  <li>Los resultados en a corto tiempo.</li>
+  <li>No es peligroso para el ser humano.</li>
+</ul>
